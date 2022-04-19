@@ -42,7 +42,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ ] Correção de bugs
 
 <h2 id="link">:link: Link Surge - link para visualização do site</h2>
- <a href="labeddit-molina-izabella-silva.surge.sh">LabEddit</a>
+ <a href="https://labeddit-molina-izabella-silva.surge.sh/">LabEddit</a>
 
 <h2 id="imagens">:computer: Imagens Desktop</h2>
 
