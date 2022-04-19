@@ -49,7 +49,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **Página inicial**
 <!-- <img src="https://github.com/future4code/molina-labe-ninja1/blob/451ac6f9a803959e7fcc20cc53110ede37dd4daf/documents/site_img_overview/04_labeninjas-nav.gif" alt="Navegação Animada" width="500"/> -->
 
-para mais imagens do site, poderá ser acessado o diretório de [imagens](https://github.com/future4code/molina-labe-ninja1/tree/451ac6f9a803959e7fcc20cc53110ede37dd4daf/documents/site_img_overview)
+para mais imagens do site, poderá ser acessado o diretório de [imagens](https://github.com/bellacbs/LabEddit/tree/main/site_img_overview)
 
 [comment]: <> (<h2>:iphone: Imagens Mobile</h2> - **Página Inicial**<hr></hr>)
 
