@@ -19,7 +19,7 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-* React, utilizando componentes de classe
+* React, utilizando componentes funcionais, incluindo hooks
 * API
 * Styled-components
 
